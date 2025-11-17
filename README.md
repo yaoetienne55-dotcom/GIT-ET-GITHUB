@@ -1,2 +1,2 @@
 # GIT-ET-GITHUB
-j'apprend à utiliser git et github pour collaborer
+j'apprend à utiliser git et github pour collaborer avec ange michel
